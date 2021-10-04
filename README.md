@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### Hello everyone <img src="https://raw.githubusercontent.com/<msna121>/<msna121>/master/<wave>.gif" width="30px">
 
 - 🔭 I’m currently working on Secure IVR solution using Amazon Connect and Amazon Lex
 - 🌱 I’m currently learning Deep learning, Natural Language Processing
